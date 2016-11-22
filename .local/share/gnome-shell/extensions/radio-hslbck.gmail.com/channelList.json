@@ -1,0 +1,550 @@
+{ "channels":[
+	{
+	"name": "89.5 Music FM",
+	"address": "http://79.172.241.238:8000/musicfmhigh",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "90.9 Jazzy Rádió",
+	"address": "http://94.199.183.186:80/jazzy.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "96.4 Rádió 1",
+	"address": "http://stream.radio1.hu:8000/mid.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Aktív Rádió",
+	"address": "http://195.56.65.180:8000/aktiv.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Alfa Rádió",
+	"address": "http://37.221.209.146:8680/live.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Alpha Rádió",
+	"address": "http://sarloutca.ddns.net:9220/fm889_high",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Amadeus Rádió",
+	"address": "http://www.amadeusradio.hu:8004/stream192",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Bajai Rádió",
+	"address": "http://92.61.114.195:9950/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Balaton Rádió",
+	"address": "http://wssgd.gdsinfo.com:8200/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Bartók Rádió",
+	"address": "http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Best FM",
+	"address": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Best Of Rádió",
+	"address": "http://bestofradio.hu:9000/stream",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Budaörs Rádió",
+	"address": "http://109.74.61.208:8000/budaorsradio.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Campus Rádió",
+	"address": "http://91.83.237.206:8000/frissradio96",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Cegléd Rádió",
+	"address": "http://stream.cegledradio.hu:8000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Civil Rádió",
+	"address": "http://civilradio.hu:8000/listen.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Code FM",
+	"address": "http://95.140.43.42:8000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Credo Rádió",
+	"address": "http://hosting.42netmedia.com:10090/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Csaba Rádió",
+	"address": "http://online.csabaradio.hu:8000/128kbps",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Csillagpont Rádió",
+	"address": "http://streamer1.borsodweb.hu:48000/csillagpont",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Dankó Rádió",
+	"address": "http://mr-stream.mediaconnect.hu/4750/mr6p.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Debrecen Rádió",
+	"address": "http://91.82.85.44:80/debrecenradiofm95",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Dió Rádió",
+	"address": "http://stream.dioradio.hu:8100/dioradio-gyongyos",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Dráva Hullám 102.7",
+	"address": "http://hosting.42netmedia.com:13070/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Egerszeg Rádió",
+	"address": "http://hosting.42netmedia.com:13010/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "EPER",
+	"address": "http://radio.elte.hu:8000/eper2",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Érd FM",
+	"address": "http://stream.erdfm.hu:8000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Európa Rádió",
+	"address": "http://radio2.tirek.hu:8000/europaradio",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Fehérvár Rádió",
+	"address": "http://81.93.193.14:8000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "FM1 Rádió",
+	"address": "http://fm1radio.ubinet.hu:6742/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "FM7",
+	"address": "http://hosting.42netmedia.com:10070",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Forrás Rádió",
+	"address": "http://91.82.85.44:9000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Fortuna Rádió",
+	"address": "http://streamer.impressive.hu:8000/fortuna_paks_live",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Friss FM",
+	"address": "http://hosting.42netmedia.com:10050/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Gong Rádió",
+	"address": "http://stream.gongradio.hu:8000/gong-fm.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Győr+ Rádió",
+	"address": "http://hosting.42netmedia.com:9620/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Halas Rádió",
+	"address": "http://92.61.114.195:8110/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Helikon Rádió",
+	"address": "http://217.113.59.10:8020/live.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Inforádió",
+	"address": "http://radioszerver.hu:8400/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Isis Rádió – Körmend",
+	"address": "http://netradio.nyugat.hu:8000/kormendlive",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Isis Rádió – Sárvár",
+	"address": "http://netradio.nyugat.hu:8000/sarvarlive",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Karc FM",
+	"address": "http://hosting.42netmedia.com:13100/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Kék Duna Rádió – Győr",
+	"address": "http://87.229.53.9:8006/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Kék Duna Rádió – Komárom-Esztergom megye",
+	"address": "http://212.92.23.237:8002/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Kék Duna Rádió – Mosonmagyaróvár",
+	"address": "http://212.92.23.237:8014/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Kék Duna Rádió – Székesfehérvár",
+	"address": "http://87.229.53.9:8004/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Klasszik Rádió",
+	"address": "http://94.199.183.186:80/klasszik.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Klubrádió",
+	"address": "http://stream.klubradio.hu:8080/source",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Kontakt Rádió",
+	"address": "http://37.221.209.146:7000/live.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "KORONAfm100",
+	"address": "http://82.141.165.6:8000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Kossuth Rádió",
+	"address": "http://mr-stream.mediaconnect.hu/4736/mr1.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Kunság Rádió",
+	"address": "http://85.90.166.88:8000/live",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Lakihegy Rádió",
+	"address": "http://stream.composeit.hu:8300/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Lánchíd Rádió",
+	"address": "http://91.82.85.44:9004/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Magyar Katolikus Rádió",
+	"address": "http://katolikusradio.hu:9000/live_hi.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Mária Rádió – Ajka",
+	"address": "http://honlap.mariaradio.hu:8000/mr_ajka",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Mária Rádió – Cegléd",
+	"address": "http://honlap.mariaradio.hu:8000/mr_cegled",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Mária Rádió – Celldömölk",
+	"address": "http://honlap.mariaradio.hu:8000/mr_celldomolk",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Mária Rádió – Mór",
+	"address": "http://honlap.mariaradio.hu:8000/mr_mor",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Mária Rádió – Pápa",
+	"address": "http://honlap.mariaradio.hu:8000/mr_papa",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Mária Rádió – Sárvár",
+	"address": "http://honlap.mariaradio.hu:8000/mr_sarvar",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Mária Rádió – Várpalota",
+	"address": "http://honlap.mariaradio.hu:8000/mr_varpalota",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Mária Rádió – Veszprém",
+	"address": "http://honlap.mariaradio.hu:8000/mr_veszprem",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "MaxiRádió",
+	"address": "http://37.221.209.189:9560/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Mega Rádió",
+	"address": "http://213.157.112.64:8984/megaradio.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Megafon FM",
+	"address": "http://85.67.247.154:8000/stream",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Méz Rádió",
+	"address": "http://host2.radioszerver.hu:9200/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Nemzetiségi Rádió",
+	"address": "http://mr-stream.mediaconnect.hu/4744/mr4.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Parlamenti adások",
+	"address": "http://mr-stream.mediaconnect.hu/4746/mr5.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Nap Rádió",
+	"address": "http://napradio.hu:8000/napradio",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Part FM",
+	"address": "http://87.229.53.9:9000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Petőfi Rádió",
+	"address": "http://mr-stream.mediaconnect.hu/4738/mr2.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Pont Rádió",
+	"address": "http://fixip.actor.hu:8012/stream/2/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rábaköz Rádió",
+	"address": "http://82.141.138.201:8099/stream",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió 1 Békéscsaba",
+	"address": "http://213.157.112.64:8984/radio1bcs.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió 1 Pécs",
+	"address": "http://stream.radio1pecs.hu:8200/pecs.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió 24",
+	"address": "http://hyades.shoutca.st:8652/hq",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió 451",
+	"address": "http://91.82.85.44:9006/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió 88",
+	"address": "http://stream.radio88.hu:8000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Antritt",
+	"address": "http://stream.radioantritt.hu:8000/Antritt",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Dabas",
+	"address": "http://stream3.virtualpro.hu:7093/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Eger",
+	"address": "http://stream.radioeger.hu:18000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Érd FM 87,8",
+	"address": "http://37.221.209.146:9340/live.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Focus",
+	"address": "http://streamhost110.gtk.hu:9086/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió M",
+	"address": "http://hosting.42netmedia.com:10060/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Most",
+	"address": "http://5.159.233.17:8002/kmost.ogg",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Radio Q",
+	"address": "http://radioszerver.hu:8300/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Radió Rock 95.8",
+	"address": "http://92.61.114.195:13150/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Radio Smile",
+	"address": "http://92.61.114.195:8010/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Som",
+	"address": "http://87.229.45.44:8100/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Sun",
+	"address": "http://radioszerver.net:19730/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Szarvas",
+	"address": "http://streamhost110.gtk.hu:9078/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Szentendre",
+	"address": "http://stream2.composeit.hu:8400/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Rádió Top",
+	"address": "http://www.radiotop.hu:888/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Retro Rádió",
+	"address": "http://stream.retrofm.hu:8000/listen",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Sirius Rádió - Kiskunfélegyháza",
+	"address": "http://91.82.84.179:8500/relay_911",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Sirius Rádió - Kiskunmajsa",
+	"address": "http://91.82.84.179:8500/relay_882",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Sláger FM",
+	"address": "http://92.61.114.159:7812/slagerfm256.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Sunshine Rádió",
+	"address": "http://195.56.193.129:8100/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Szent István Rádió",
+	"address": "http://online.szentistvanradio.hu:7000/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Tamási Rádió",
+	"address": "http://radioszerver.hu:9100/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Táska Rádió",
+	"address": "http://radioszerver.hu:7070/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Tilos Rádió",
+	"address": "http://stream.tilos.hu:80/tilos_128.mp3",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Tisza-tó Rádió",
+	"address": "http://hosting.42netmedia.com:10010/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Torony Rádió",
+	"address": "http://87.229.45.44:8020/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Trend FM",
+	"address": "http://radio.nordtelekom.hu:8000/gazdasagiradio",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Trió Rádió",
+	"address": "http://79.172.217.50:9090/",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Vörösmarty Rádió",
+	"address": "http://217.13.100.100:8000/vorosmarty_mid.mp3",
+	"favourite": false,
+	"encoding": false
+}
+],
+
+  "lastplayed":{
+	"name": "",
+	"address": "",
+	"encoding": false
+}
+}
