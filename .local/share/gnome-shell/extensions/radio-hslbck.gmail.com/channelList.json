@@ -1,7 +1,7 @@
 { "channels":[
 	{
 	"name": "89.5 Music FM",
-	"address": "http://79.172.241.238:8000/musicfmhigh",
+	"address": "http://stream.musicfm.hu:8000/musicfm.mp3",
 	"favourite": false,
 	"encoding": false
 },	{
